@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="hu.meiit.haladojava.calculator.AppTest" time="0.003" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="hu.meiit.haladojava.calculator.AppTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="15.0.1+9-18"/>
     <property name="sun.boot.library.path" value="C:\Users\kokom\.jdks\openjdk-15.0.1\bin"/>
-    <property name="maven.multiModuleProjectDirectory" value="E:\Desktop\programok\java\calculator"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:/Desktop/programok/java/calculator"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -25,40 +25,40 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Program Files\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="classworlds.conf" value="C:/Program Files/apache-maven-3.6.3/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1250"/>
-    <property name="java.library.path" value="C:\Users\kokom\.jdks\openjdk-15.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Python39\Scripts\;C:\Python39\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\kokom\.jdks\openjdk-15.0.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\kokom\AppData\Local\Microsoft\WindowsApps;E:\Appok\IntelliJ IDEA Community Edition 2020.2.4\bin;;C:\Program Files\CodeBlocks\MinGW\bin;E:\Appok\Microsoft VS Code\bin;C:\Users\kokom\AppData\Roaming\npm;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\kokom\.jdks\openjdk-15.0.1;;."/>
-    <property name="maven.conf" value="C:\Program Files\apache-maven-3.6.3\bin\../conf"/>
+    <property name="java.library.path" value="C:\Users\kokom\.jdks\openjdk-15.0.1\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\kokom\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\kokom\bin;C:\Python39\Scripts;C:\Python39;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\TDM-GCC-64\bin;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\kokom\.jdks\openjdk-15.0.1\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\kokom\AppData\Local\Microsoft\WindowsApps;E:\Appok\IntelliJ IDEA Community Edition 2020.2.4\bin;C:\Program Files\CodeBlocks\MinGW\bin;E:\Appok\Microsoft VS Code\bin;C:\Users\kokom\AppData\Roaming\npm;C:\Program Files\apache-maven-3.6.3\bin;C:\Users\kokom\.jdks\openjdk-15.0.1;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/Program Files/apache-maven-3.6.3/conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="59.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
-    <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="library.jansi.path" value="C:/Program Files/apache-maven-3.6.3/lib/jansi-native"/>
     <property name="user.home" value="C:\Users\kokom"/>
     <property name="user.timezone" value="Europe/Budapest"/>
     <property name="file.encoding" value="Cp1250"/>
     <property name="java.specification.version" value="15"/>
     <property name="user.name" value="kokom"/>
-    <property name="java.class.path" value="C:\Program Files\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.class.path" value="C:/Program Files/apache-maven-3.6.3/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="15"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install --projects :calculator"/>
     <property name="java.home" value="C:\Users\kokom\.jdks\openjdk-15.0.1"/>
     <property name="user.language" value="hu"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.vm.info" value="mixed mode, sharing"/>
     <property name="java.version" value="15.0.1"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="sun.stderr.encoding" value="cp852"/>
-    <property name="maven.home" value="C:\Program Files\apache-maven-3.6.3\bin\.."/>
+    <property name="sun.stderr.encoding" value="cp65001"/>
+    <property name="maven.home" value="C:\Program Files\apache-maven-3.6.3"/>
     <property name="file.separator" value="\"/>
     <property name="java.version.date" value="2020-10-20"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
-    <property name="sun.stdout.encoding" value="cp852"/>
+    <property name="sun.stdout.encoding" value="cp65001"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="hu.meiit.haladojava.calculator.AppTest" name="testApp" time="0.003"/>
+  <testcase classname="hu.meiit.haladojava.calculator.AppTest" name="testApp" time="0"/>
 </testsuite>

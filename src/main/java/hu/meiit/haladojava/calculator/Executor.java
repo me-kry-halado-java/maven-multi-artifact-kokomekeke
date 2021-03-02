@@ -2,21 +2,21 @@ package hu.meiit.haladojava.calculator;
 
 public class Executor {
 
-    public int add(int a, int b){
+    public double add(int a, int b){
         return a + b;
     }
 
-    public int minus(int a, int b){
+    public double minus(int a, int b){
         return a - b;
     }
 
-    public int multiply(int a, int b){
+    public double multiply(int a, int b){
         return a * b;
     }
 
     public double divide(int a, int b){
         try{
-            return a / b;
+            return (double)a / b;
         }catch (ArithmeticException e){
             e.printStackTrace();
         }
