@@ -19,8 +19,7 @@ public class Executor {
             return (double)a / b;
         }catch (ArithmeticException e){
             e.printStackTrace();
+            return 0;
         }
-
-        return 0;
     }
 }

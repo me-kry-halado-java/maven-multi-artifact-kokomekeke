@@ -81,7 +81,7 @@ public class App
                 break;
             case DIVIDE:
                 result = String.valueOf(exec.divide(expression.getOperand1(),expression.getOperand2()));
-                if(result.equals("0.0")){
+                if(expression.getOperand2()==0){
                     result = errorResponse;
                 }
                 break;
