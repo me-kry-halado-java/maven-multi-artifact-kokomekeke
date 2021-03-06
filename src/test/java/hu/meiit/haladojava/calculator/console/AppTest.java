@@ -1,4 +1,4 @@
-package hu.meiit.haladojava.calculator;
+package hu.meiit.haladojava.calculator.console;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
